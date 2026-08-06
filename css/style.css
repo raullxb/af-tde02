@@ -1,0 +1,9 @@
+#miniaturas img{
+    width: 150px;
+    height: 110px;
+}
+#miniaturas{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
